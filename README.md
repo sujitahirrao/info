@@ -1,3 +1,6 @@
+(This project is liberally copied from [https://github.com/codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio), with required modifications.)
+
+
 # vCard - Personal portfolio
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
